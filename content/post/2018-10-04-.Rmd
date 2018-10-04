@@ -1,0 +1,16 @@
+---
+title: 青岛报告
+author: yy
+date: '2018-10-04'
+slug: ''
+categories:
+  - R
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+
+this i是不对的。
+
