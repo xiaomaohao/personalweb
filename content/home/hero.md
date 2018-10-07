@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Academic"
+title = "精进治学"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
+  教育是促进个人发展与社会进步的基石，然此功能之实现需要无数人的努力，致力于使努力者有力，前行者有望 :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->

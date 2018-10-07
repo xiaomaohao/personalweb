@@ -4,7 +4,7 @@ date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["叶阳永", "MS Nixon"]
 
 # Publication type.
 # Legend:
@@ -75,3 +75,4 @@ caption = "My caption :smile:"
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+更多细节可以写在这里。

@@ -20,11 +20,11 @@ type = "docs"  # Do not modify.
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-This feature can be used for publishing content such as:
+这个项目可以从其他 can be used for publishing content such as:
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+* **教育法的基本问题**
+* **教育法的基本理论**
+* **教育法的基本方法**
 
 The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
 

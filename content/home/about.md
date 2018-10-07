@@ -10,32 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "教育法学",
+    "教育财政",
+    "量化研究"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in ELPA"
+  institution = "University of Missouri"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "教育学原理硕士"
+  institution = "北京师范大学"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "农业资源与环境学士"
+  institution = "中国农业大学"
+  year = 2007
  
 +++
 
-# Biography
+# 个人简介
 
-叶阳永，博士研究方向为教育法学、教育财政及量化研究方法，致力教育公平的研究.
+致力于教育问题研究，使教育成为个体成长与社会进步的重要基石，关注农村教育、中小学教师问题及教育法律问题。
 
-If you can't explain it simply, you don't understand it well enough
+    If you can't explain it simply, you don't understand it well enough
 

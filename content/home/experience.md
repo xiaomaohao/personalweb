@@ -26,20 +26,20 @@ date_format = "January 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  工作职责:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 教学
+  * 科研
+  * 社会服务
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "讲师"
+  company = "中国人民大学"
+  company_url = "www.ruc.edu.cn"
+  location = "北京"
+  date_start = "2014-09-01"
+  date_end = ""
+  description = """教育法学及教育的教学与科研"""
 
 +++
