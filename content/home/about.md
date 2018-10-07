@@ -37,5 +37,5 @@ weight = 5
 
 致力于教育问题研究，使教育成为个体成长与社会进步的重要基石，关注农村教育、中小学教师问题及教育法律问题。
 
-    If you can't explain it simply, you don't understand it well enough
+> "If you can't explain it simply, you don't understand it well enough"
 

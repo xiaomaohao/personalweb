@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on 叶阳永的个人网站</title>
+    <title>课程概要 on 叶阳永的个人网站</title>
     <link>/zh/courses/</link>
-    <description>Recent content in Overview on 叶阳永的个人网站</description>
+    <description>Recent content in 课程概要 on 叶阳永的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,14 +13,21 @@
     
     
     <item>
-      <title>Example Page</title>
+      <title>教育政治学</title>
+      <link>/zh/courses/politics-of-education/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/courses/politics-of-education/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic: 教育行政管理体制 Don&amp;rsquo;t be afraid 教育立法过程 Follow the example 民办教育专题 Follow the example 教育财政专题 Follow the example</description>
+    </item>
+    
+    <item>
+      <title>教育法律实务</title>
       <link>/zh/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
       <guid>/zh/courses/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 Don&amp;rsquo;t be afraid
-Tip 2 Follow the example</description>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic: 学生权益专题 Don&amp;rsquo;t be afraid 教师权益专题 Follow the example 学校权益专题 Follow the example 行政部门专题 Follow the example</description>
     </item>
     
   </channel>

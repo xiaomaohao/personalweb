@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "课程概要"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,9 +9,8 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
-[menu.tutorial]
-  parent = "Example Topic"
+[menu.courses]
+  name = "课程概要"
   weight = 1
 
 # Featured image.
@@ -21,12 +20,11 @@ linktitle = "Example Page"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+本人开设以下课程:
 
-## Tip 1
+* **教育法律实务**
+* **教育政治学**
+* **教育统计与SPSS应用**
+* **教育管理纠纷案例分析**
 
-Don't be afraid
-
-## Tip 2
-
-Follow the example
+在本栏目中，你可以发现关于以上课程的教学大学及其辅助材料的链接。

@@ -18,20 +18,7 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  工作职责:
-  
-  * 教学
-  * 科研
-  * 社会服务
-  """
+
 
 [[experience]]
   title = "讲师"
@@ -40,6 +27,25 @@ date_format = "January 2006"
   location = "北京"
   date_start = "2014-09-01"
   date_end = ""
-  description = """教育法学及教育的教学与科研"""
+  description = """
+  业务范围:
+  
+  * 教育教学
+  * 科学研究
+  * 社会服务"""
 
+[[experience]]
+  title = "律师"
+  company = "北京初亭律师事务所"
+  company_url = ""
+  location = "北京"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  业务范围:
+  
+  * 学校法务
+  * 教师聘任
+  * 学生伤害
+  """
 +++

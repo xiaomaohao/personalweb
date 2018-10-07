@@ -1,10 +1,11 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
+
+title = "公立中小学教师聘用合同的法律性质及其司法救济"
 date = 2015-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["叶阳永"]
 
 # Publication type.
 # Legend:
@@ -18,11 +19,12 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = "In *SITIS*"
+publication = " *复旦教育评论*, **FEF**."
+publication_short = "*FEF*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "公立中小学教师聘用合同法律性质定位不清不利于教师合法权益的保护，侵蚀着教师职业的吸引力。事业单位人事制度改革的制度成果和新修订的《行政诉讼法》为明确教师聘用合同的法律性质提供了制度支撑。教师聘用合同满足行政合同在目的、主体、职权、意思及内容要素等方面的定义性规定，是一种行政合同。中小学教师聘用合同纠纷可依法纳入行政诉讼受案范围，其诉讼形式、法律适用、判决方式等问题适用新《行政诉讼法》司法解释的相关条款。"
+
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +45,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://share.weiyun.com/5YxMqon"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

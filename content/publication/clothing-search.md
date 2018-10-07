@@ -1,10 +1,10 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
+title = "中小学教师法制建设四十年（1978-2018）"
+date = 2018-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["叶阳永", "MS Nixon"]
+authors = ["叶阳永"]
 
 # Publication type.
 # Legend:
@@ -15,15 +15,14 @@ authors = ["叶阳永", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "*全球教育展望*"
+publication_short = "*Global Education*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "中小学教师法制建设涉及教师资格、职称、工资、社会保障、惩戒、救济与聘用制度等诸多领域。1978年以来，我国逐步建立了体系完整的教师资格和职称制度，形成了保障和激励相结合的教师工资制度，社会保障逐步从组织向社会保险并轨，教师惩戒制度逐步完善，聘用合同制度初具雏形，建立了申诉、仲裁和诉讼等多渠道的权利救济制度。中小学教师法制建设呈现分领域推进、多部门协作、法制先导与实践先导并存、依附性较强等特点。中小学教师法制建设还存在资格认证条件偏低、职称与处分法律性质不清、工资保障责任和社会保障缴费责任强制力不足、聘用解除制度不完善与救济渠道较为狭窄等问题，上述问题的解决迫切需要重新审视中小学教师的法律地位。"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,6 +35,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
+
 projects = ["example-external-project"]
 
 # Tags (optional).
@@ -45,17 +45,17 @@ tags = []
 # Links (optional).
 url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_code = "#"
+#url_dataset = "#"
+#url_project = "#"
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -70,7 +70,8 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+
+caption = "西山余晖 :smile:"
 
 +++
 

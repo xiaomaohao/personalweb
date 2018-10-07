@@ -89,7 +89,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 2
+  map = 0
   map_api_key = ""
   latitude = "39.972516"
   longitude = "116.315096"
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -293,8 +293,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorial"
-  url = "/tutorial/"
+  name = "Courses"
+  url = "/courses/"
   weight = 5
 
 [[menu.main]]

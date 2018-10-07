@@ -21,20 +21,67 @@
     </item>
     
     <item>
-      <title>Example Page</title>
-      <link>/zh/tutorial/example/</link>
+      <title>中小学教师法制建设四十年（1978-2018）</title>
+      <link>/zh/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.
+更多细节可以写在这里。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>教育政治学</title>
+      <link>/zh/courses/politics-of-education/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>/zh/tutorial/example/</guid>
+      <guid>/zh/courses/politics-of-education/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;h2 id=&#34;教育行政管理体制&#34;&gt;教育行政管理体制&lt;/h2&gt;
 
 &lt;p&gt;Don&amp;rsquo;t be afraid&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;h2 id=&#34;教育立法过程&#34;&gt;教育立法过程&lt;/h2&gt;
+
+&lt;p&gt;Follow the example&lt;/p&gt;
+
+&lt;h2 id=&#34;民办教育专题&#34;&gt;民办教育专题&lt;/h2&gt;
+
+&lt;p&gt;Follow the example&lt;/p&gt;
+
+&lt;h2 id=&#34;教育财政专题&#34;&gt;教育财政专题&lt;/h2&gt;
+
+&lt;p&gt;Follow the example&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>教育法律实务</title>
+      <link>/zh/courses/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/zh/courses/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;学生权益专题&#34;&gt;学生权益专题&lt;/h2&gt;
+
+&lt;p&gt;Don&amp;rsquo;t be afraid&lt;/p&gt;
+
+&lt;h2 id=&#34;教师权益专题&#34;&gt;教师权益专题&lt;/h2&gt;
+
+&lt;p&gt;Follow the example&lt;/p&gt;
+
+&lt;h2 id=&#34;学校权益专题&#34;&gt;学校权益专题&lt;/h2&gt;
+
+&lt;p&gt;Follow the example&lt;/p&gt;
+
+&lt;h2 id=&#34;行政部门专题&#34;&gt;行政部门专题&lt;/h2&gt;
 
 &lt;p&gt;Follow the example&lt;/p&gt;
 </description>
@@ -290,7 +337,7 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
+      <title>公立中小学教师聘用合同的法律性质及其司法救济</title>
       <link>/zh/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
       
@@ -344,17 +391,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/zh/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
-      
-      <guid>/zh/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.
-更多细节可以写在这里。&lt;/p&gt;
 </description>
     </item>
     
