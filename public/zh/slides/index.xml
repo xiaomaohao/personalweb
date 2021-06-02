@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Data Science for Education with .red[**R**]</title>
+      <link>/zh/slides/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/slides/overview/</guid>
+      <description>class: center, middle,inverse # Let’s begin ou.red[R] journey! class: center, middle,inverse Why Language? Fast Powerful Note-taking Reproducible class: inverse, middle # Course Overview - Environment Preparation Data fetching Data preparation Data tabulation Data visulization Data analysis Data creation class: inverse, middle Preparation Environment Preparation RStudio installation RStudio introduction R introduction Common package installation (eg. tidyverse) Self-learning material R for data science class: middle,inverse # Data Preparation</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/zh/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

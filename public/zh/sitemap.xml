@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/zh/courses/education-data-science/</loc>
+      <lastmod>2018-10-09T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/zh/post/2018-10-04-/</loc>
       <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     </url>
@@ -76,6 +84,14 @@
     
     <url>
     
+      <loc>/zh/talk/talk_2/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/zh/talk/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
@@ -124,6 +140,27 @@
     
     <url>
     
+      <loc>/zh/talk/talk_2/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/zh/talk/example-talk/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/zh/talk/talk2/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/zh/publication_types/2/</loc>
       <lastmod>2018-10-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -147,6 +184,13 @@
     
       <loc>/zh/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/zh/slides/overview/</loc>
     </url>
     
   
