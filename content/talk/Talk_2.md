@@ -60,7 +60,7 @@ caption = "My caption :smile:"
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
 
-PPT 可以通过以下方式添加:
+PPT 鍙互閫氳繃浠ヤ笅鏂瑰紡娣诲姞:
 
 - **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
