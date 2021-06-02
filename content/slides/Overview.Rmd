@@ -1,0 +1,273 @@
+---
+title: "Data Science for Education with .red[**R**]"
+subtitle: "First class"
+author: "Yangyong Ye"
+date: "2018/11/13"
+output:
+  xaringan::moon_reader:
+    css: [default,zh-CN.css,mycss.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle,inverse
+
+# Let's begin ou.red[**R**] journey!
+---
+class: center, middle,inverse
+
+# Why Language?
+
+## Fast
+## Powerful
+## Note-taking
+## Reproducible
+
+---
+class: center, middle,inverse
+
+# R
+### small
+### versatile
+### beautiful
+### not hard to learn
+
+???
+
+In this slide, I will talk about the advantages of R and why I change from spss to R.
+
+---
+class: inverse, middle
+# Course Overview
+- Environment Preparation
+
+- Data fetching
+
+- Data preparation
+
+- Data tabulation
+
+- Data visulization
+
+- Data analysis
+
+- Data creation
+
+---
+class: center middle
+
+# Class Schedule
+```{r,echo=FALSE, fig.width=10}
+library(timevis)
+classplan <- data.frame(
+  id = 1:8,
+  content =c("week 1: \nintroduction", "week 2: data preparation", "week 3: data tabulation", "week 4: data visualization I",
+             "week 5: data visualization II", "week 6: data analysis", "week 7: data analysis", "week 8: data creation"),
+  start= c("2018-11-13","2018-11-20","2018-11-27","2018-12-4","2018-12-11",
+           "2018-12-18","2018-12-25","2019-01-01")
+)
+
+
+timevis(classplan,
+        options = list(width = "800px",height="400px"))
+```
+
+
+
+---
+class: inverse, middle
+
+# Preparation
+
+- Environment Preparation
+
+  - RStudio installation
+  
+  - RStudio introduction
+  
+  - R introduction
+  
+  - Common package installation (eg. **tidyverse**)
+  
+  - Self-learning material [R for data science](http://r4ds.had.co.nz/)
+
+---
+class: inverse, middle
+# Data Fetching
+- SOURCE
+
+  - 中国教育追踪调查[CEPS](http://ceps.ruc.edu.cn/)
+  - 中国家庭追踪调查[CFPS](http://www.isss.pku.edu.cn/cfps/)
+  - 中国社会综合调查[CGSS](http://cgss.ruc.edu.cn/)
+  - 中国家庭收入调查[CHIP](http://ciid.bnu.edu.cn/chip/index.asp)
+  - 中国健康与营养调查[CHNS](https://www.cpc.unc.edu/projects/china)
+  - 中国教育统计年鉴[EDU_STAT](http://data.cnki.net/yearbook/Single/N2017120244)
+  - 中国教育经费统计年鉴[EDU-FINA](http://data.cnki.net/yearbook/Single/N2018070117)
+  
+
+---
+class: middle,inverse
+# Data Preparation
+
+- Data Manipulation
+
+  - recode/rename
+  
+  - subset(select/filter)
+  
+  - join/combine
+  
+  - arrange
+  
+  - summarize
+  
+  - reshape
+
+---
+class: middle,inverse
+# Data Tabulation
+
+- Table Type
+
+  - frequency table
+  
+  - crosstable
+  
+  - summary table
+  
+  - table formating<sup>*<sup>
+  
+  - test-table(t, chi, anovo)
+  
+  - regresion table
+
+.footnote[[*]this will use kableExtra package]
+
+---
+class: inverse, middle
+
+# Data Visualiztion
+
+- [Graph Type](https://www.r-graph-gallery.com/)
+
+  - **Rankings**: Barplot,circular barplot, Spider/Radar, parallel, lollipop/stem, circular barplot
+  
+  - **Distribution**: histgram, density, boxplot, violin, ridgeline/joyplot
+  
+  - **Correlation**: scatter, heatmap, correlogram, bubble, connected scatter, density 2D
+  
+  - **Composition**: treemap, dendrogram, venn diagram, stacked bar, pie chart, doughnut, circular packing
+
+---
+class: inverse, middle
+
+# Data Visualiztion
+
+- [Graph Type](https://www.r-graph-gallery.com/)
+
+  - **Evolution**: line, Area, stacked area, streamgraph, parallel, time series
+  
+  - **Maps**: background map, connection, choropleth, bubble, hexbin map, cartogram
+  
+  - **Flow**: network, chord diagram, hierarchical edge bundling, sankey diagram
+  
+  - **Other**: interactive, animation, 3d, color, cheat sheet.
+
+---
+class: middle,inverse
+
+# Data Visualiztion
+
+- Useful packages
+
+  - comprehensive package: **ggplot2**
+
+  - for dendrogram: **packcircles**,**ggraph**, **treemap**, **dendextend** 
+
+  - for network: **igraph**,**tidygraph**,**ggraph**
+
+  - correlation matrix: **ellipse**, **car**, **GGally**,**corrgram**
+
+  - flow diagram: **ggalluvial**
+
+
+---
+class: inverse, middle,center
+
+# Intentionally blank
+
+---
+class: middle,inverse
+# Data Analysis
+
+- Data analysis ladder
+
+  - simple test(**t**, *chi*, anova)
+
+  - correlation
+  
+  - factor analysis
+  
+  - cluster analysis
+
+  - regresion
+
+---
+class: middle,inverse
+
+# Logistics
+- MATERIALS
+
+  - Garrett Grolemund, Hadley Wickhan. [R for data science](https://r4ds.had.co.nz/)
+  - Hadley Wickham, Ggplot2-Elegant-Graphics for Data Analysis(2nd), Springer.
+  - 王孝玲,教育统计学,华东师范大学出版社.
+  - Other(TBC)
+
+- ACCESSMENT
+  - Presence      (10%)
+  - Project       (20%)
+  - Homeworks     (30%)
+  - Final         (40%)
+ 
+  
+---
+class: middle,inverse, center
+
+# Project Example
+
+### 学生惩戒
+### 财政年报
+### 建档立卡学生就学报告
+### 高考成绩分析报告
+
+---
+
+class: middle, inverse, center
+
+# Homework for .red[NEXT] Week
+
+## Chapter 1-5 from Doc. Wang
+## Chapter 5, 12, 13, from R4DS
+## CEPS
+---
+# for Rstudio
+
+package installation, for example *tidyverse*
+use *mpg* to make some example.
+what is script?
+what is project?
+
+```{r}
+#install.packages("tidyverse")
+library(tidyverse)
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
+
